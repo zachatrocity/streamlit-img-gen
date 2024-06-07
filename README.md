@@ -63,6 +63,8 @@ Your insights can make this tool even better! Feel free to fork, make enhancemen
 
 - **Developed by**: The wizards over at [Stability AI](https://stability.ai/) 🧙‍♂️
 
+- Forked from the awesome work by [tonykipkemboi/streamlit-replicate-img-app](https://github.com/tonykipkemboi/streamlit-replicate-img-app) with the goal of targeting selfhosting
+
 - **Model type**: Diffusion-based text-to-image generative model
 
 - **License**: [CreativeML Open RAIL++-M License](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/blob/main/LICENSE.md)
